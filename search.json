@@ -1,0 +1,12 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GECO Leaflet Map",
+    "section": "",
+    "text": "Interactive raster\n    Cumulative water deficit across the contiguous United States\n    This map shows the maximum cumulative water deficit between 2020 and 2022 per 30 m pixel in mm. Darker shades indicate larger deficits. Everything above 840 mm (the 98th percentile of the raster) is drawn in the same darkest shade for maximum contrast at the large scale. Click on a pixel to read its value.\n\n    \n      Data\n      \n        Evapotranspiration: OpenET DisALEXI model providing actual ET at 30 m resolution (Melton et al., 2022): https://doi.org/10.1111/1752-1688.12956\n        Precipitation: DAYMET gridded daily precipitation at 1 km resolution (Thornton et al., 2021): https://doi.org/10.1038/s41597-021-00973-0\n      \n    \n\n    \n      About this map\n      The raster is too large to embed in a web page, so it is built as a Google Earth Engine App and shown here in a frame. The page around it is built from the GECO leaflet map template.\n\n      The GitHub repository containing the source code: ba_faehdavid.\n\n      For further information please contact GECO Bern.\n    \n  \n\n  \n    ‹\n    Hide information",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cumulative water deficit across the contiguous United States</span>"
+    ]
+  }
+]
